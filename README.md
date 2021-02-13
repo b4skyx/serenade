@@ -3,7 +3,7 @@
 Handpicked colors to suit my eyes, callibrated for my monitor and my lightning conditions.
 Using [forest-night](https://github.com/sainnhe/forest-night) as the theme template.
 
-![serenade](https://user-images.githubusercontent.com/55960554/106634210-92183000-65a5-11eb-80b4-c2c9c7cb1a91.png)
+![serenade](https://user-images.githubusercontent.com/55960554/107852403-872b8e00-6e36-11eb-9276-0719c94ce276.png)
 
 # Installation
 
