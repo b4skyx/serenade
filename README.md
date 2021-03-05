@@ -26,3 +26,9 @@ Set lightline/airline scheme accordingly</br>
 # Configuration
 
 Read [`:help serenade`](./doc/serenade.txt)
+
+# Contributions
+
+* [Jetbrains Theme](https://github.com/zeke8402/intellij_serenade)
+
+
